@@ -1,0 +1,40 @@
+.sideBar{
+    background: hsl(0,0,100);
+    box-shadow: 1px 0px 4px grey;
+    width: 18%;
+    height: 100%;
+    gap: 3 rem;
+    overflow: auto;
+}
+.logoDiv{
+    padding: 1.5rem 1.5rem 0;
+    cursor:pointer;
+    margin-left: 2rem;
+}
+    img{
+        max-width:50%;
+        margin-right: 1 rem;
+       
+        border-radius: 2px;
+        padding: .2rem;
+    }
+    h2{
+        font-size: large;
+        color: green;
+    }
+      .divTitle{
+            
+            color: black;
+             margin-left: 3rem;
+        }
+    .listItem{
+        padding: .2rem 1.5rem;
+        width:100%;
+        position: relative;
+    }
+ .menuLink{
+    color: grey;
+    font-weight: 500;
+    margin-right: .5rem;
+ }
+ 
